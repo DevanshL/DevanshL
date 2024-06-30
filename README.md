@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://devanshl.github.io/databaseteam.github.io/](https://devanshl.github.io/databaseteam.github.io/)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/DevanshL?tab=repositories)
 
 - 💬 Ask me about **c,cpp,js,python**
 
