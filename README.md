@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Devansh Lingamaneni</h1>
 <h3 align="center">"An Enthusiastic ML Engineer from India"</h3>
-<img align="right" alt="gif"  width="400"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fjoin-the-battle%2Fpage%2Fblog%2Fabilities-hax-for-goku-that-youve-probably-not-heard-about-part-1%2FM7wB_QmUku7J15Eoma0NW7bnZPllVJB5K&psig=AOvVaw00fKwY7BdqcwyyxmJ_CXDc&ust=1737708521733000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDyz_O6i4sDFQAAAAAdAAAAABAJ"
+<img align="right" alt="gif" width="400" src="https://pm1.aminoapps.com/8438/ffc33640a6298fe5ab6e94989d0a55ac177da27br1-1137-2048v2_hq.jpg" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshl&label=Profile%20views&color=0e75b6&style=flat" alt="devanshl" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=devanshl&label=Profile%20views&color=0e75b6&style=flat" alt="devanshl" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/devansh lingamaneni" target="blank"><img src="https://img.shields.io/twitter/follow/devansh lingamaneni?logo=twitter&style=for-the-badge" alt="devansh lingamaneni" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/devanshlingamaneni" target="blank">
+    <img src="https://img.shields.io/twitter/follow/devanshlingamaneni?logo=twitter&style=for-the-badge" alt="devansh lingamaneni" />
+  </a>
+</p>
+
 
 - 🔭 I’m currently working on [Generative AI]
 
