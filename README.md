@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devansh Lingamaneni</h1>
 <h3 align="center">"An Enthusiastic ML Engineer from India"</h3>
-<img align="right" alt="gif"  width="400"  src="[https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fjoin-the-battle%2Fpage%2Fblog%2Fabilities-hax-for-goku-that-youve-probably-not-heard-about-part-1%2FM7wB_QmUku7J15Eoma0NW7bnZPllVJB5K&psig=AOvVaw00fKwY7BdqcwyyxmJ_CXDc&ust=1737708521733000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDyz_O6i4sDFQAAAAAdAAAAABAJ)"
+<img align="right" alt="gif"  width="400"  src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fjoin-the-battle%2Fpage%2Fblog%2Fabilities-hax-for-goku-that-youve-probably-not-heard-about-part-1%2FM7wB_QmUku7J15Eoma0NW7bnZPllVJB5K&psig=AOvVaw00fKwY7BdqcwyyxmJ_CXDc&ust=1737708521733000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDyz_O6i4sDFQAAAAAdAAAAABAJ"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshl&label=Profile%20views&color=0e75b6&style=flat" alt="devanshl" /> </p>
 
