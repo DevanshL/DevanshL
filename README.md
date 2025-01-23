@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [Generative AI]
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **Ai Agents and Generative Ai**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/DevanshL?tab=repositories)
 
@@ -40,4 +40,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshl&show_icons=true&locale=en" alt="devanshL" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevanshL&" alt="DevanshL" /></p>
